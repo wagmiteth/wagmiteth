@@ -1,43 +1,44 @@
 # Hi, I’m wagmit 👋
 
-I’m a developer based in Sweden working on network states, personal finance tools, and AI‑assisted workflows. I like building opinionated products with TypeScript, Next.js, Supabase, and modern web tooling.
+I started my first company 10 years ago — and I’m still on the trail of the full freedom I wished for back then :)
+
+Developer based in Sweden. I build opinionated products with TypeScript, Next.js, Supabase and modern web tooling, mostly around AI agents, network states and personal finance.
 
 ---
 
-## 🌐 Open Source Projects
+## 🎯 Current focus — bocka.ai
 
-- **[theincognita.com](https://theincognita.com/)** – Network State dashboard, acquired in 2025 by Balaji Srinivasan and ns.com.  
+**[bocka.ai](https://bocka.ai)** — AI admin agents for Swedish craftsmen. Quotes, invoicing, mail and paperwork handled by agents plugged into the tools tradespeople already use. This is where nearly all my time goes right now.
+
+---
+
+## 🌐 Network States
+
+- **[theincognita.com](https://theincognita.com/)** — Network State dashboard, **acquired by Balaji Srinivasan** and now living on as **[ns.com/dashboard](https://ns.com/dashboard)**.
   → [github.com/wagmiteth/theincognita.com](https://github.com/wagmiteth/theincognita.com)
-- [**family-finance**](https://family-finance-eight-kappa.vercel.app/) – End‑to‑end encrypted shared household expense tracker.  
-  → [github.com/wagmiteth/family-finance](https://github.com/wagmiteth/family-finance)
-- **bankless.se** – One of Sweden’s first DAOs, exploring crypto‑native coordination and governance.  
-  → [github.com/wagmiteth/bankless.se](https://github.com/wagmiteth/bankless.se)
-
-
----
-
-## 🏛️ Organization Work – nsnodes
-
-I’m the founder and contributor to **[nsnodes.com](https://nsnodes.com/)**, a Network State hub for people interested in building new countries and societies.
-
-- **nsnodes.com** – Events, jobs, creators, VCs, societies, and tooling for the Network State ecosystem.  
+- **[nsnodes.com](https://nsnodes.com/)** — Network State hub: events, jobs, creators, VCs, societies and tooling. **Partly open source.**
   → [github.com/nsnodes/nsnodes-interface](https://github.com/nsnodes/nsnodes-interface)
+- **[nsnodes.substack.com](https://nsnodes.substack.com/)** — our weekly newsletter on network states and the people building them.
+- **[Telegram community](https://t.me/+Ags-sVXAYWA1ZDdl)** — where the conversation actually happens. Come say hi.
 
 ---
 
-## 🔒 Private Work
+## 🧰 Other projects
 
-- **polynewswire.com** – News and narratives built on top of the Polymarket.com platform.  
-  Contact me for details or potential access.
+- **[family-finance](https://family-finance-eight-kappa.vercel.app/)** — end-to-end encrypted shared household expense tracker.
+  → [github.com/wagmiteth/family-finance](https://github.com/wagmiteth/family-finance)
+- **bankless.se** — one of Sweden’s first DAOs, exploring crypto-native coordination and governance.
+  → [github.com/wagmiteth/bankless.se](https://github.com/wagmiteth/bankless.se)
+- **polynewswire.com** — insider detection and narratives on top of Polymarket. Private — ping me for access.
 
 ---
 
-## 💬 Let’s Connect
+## 💬 Let’s connect
 
 I’m especially interested in:
 
-- Network states, coordination tech, and new institutional experiments  
-- Personal finance UX  
-- AI agents plugged into real workflows (e.g., research, summarization, financial automation)
+- AI agents plugged into real workflows — not demos
+- Network states, coordination tech and new institutional experiments
+- Personal finance UX
 
 If any of that resonates, open an issue, start a discussion, or just drop me a message.
